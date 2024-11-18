@@ -1,1 +1,2 @@
+This project aims to develop an AI-powered system to forecast waste generation in restaurants, optimizing resource allocation during peak and low-waste periods. Using historical and event data, the system will predict waste patterns, adjust collection schedules, and prevent bin overflow. A time-series model will drive real-time recommendations via a dashboard. The solution enhances efficiency, reduces waste, and ensures cleanliness.
 https://docs.google.com/document/d/1TUYpQtJtcckCLiiqcojIPRqiqJH8mEMTUEViUQgxZSQ/edit?usp=sharing
